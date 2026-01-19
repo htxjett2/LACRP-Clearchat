@@ -1,10 +1,9 @@
 
 
-=========================================================
-                  LACRP-Clearchat
-=========================================================
+==========================================
+            LACRP-Clearchat
+==========================================
 
-Description:
 LACRP-Clearchat is a simple and lightweight FiveM script
 designed for any server.
 It allows staff to clear the in-game chat quickly and easily.
