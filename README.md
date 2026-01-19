@@ -31,7 +31,7 @@ Links:
 - GitHub Repository: https://github.com/htxjett2/LACRP-Clearchat/tree/main
 - LACRP Discord: https://discord.gg/lacountyrp
 
-Support:
+**Support:**
 If you have questions, issues, or ideas for updates, join our Discord
 and get help directly from myself
 
