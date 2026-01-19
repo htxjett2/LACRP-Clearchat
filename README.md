@@ -1,4 +1,3 @@
---[[
 =========================================================
                   LACRP-Clearchat
 =========================================================
@@ -36,4 +35,3 @@ If you have questions, issues, or ideas for updates, join our Discord
 and get help directly from myself
 
 =========================================================
-]]
