@@ -4,7 +4,7 @@
 
 Description:
 LACRP-Clearchat is a simple and lightweight FiveM script
-designed for Los Angeles County Roleplay (LACRP) servers.
+designed for any server.
 It allows staff to clear the in-game chat quickly and easily.
 
 Features:
